@@ -1,0 +1,10 @@
+---
+layout: post
+title: My frist blog page!
+date: 2018-10-01 13:37:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+fig-caption: a good start !# Add figcaption (optional)
+tags: [Life] # add tag
+---
+my first blog creer!
