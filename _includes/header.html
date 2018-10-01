@@ -11,7 +11,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <a class="navbar-brand" href="{/">{{ site.title }}</a>
       <p class="navbar-text">Front-end Dev Engineer</p>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -32,7 +32,7 @@
               {% else %}
               <li>
             {% endif %}
-            <a href="{{ p.url | prepend: site.baseurl }}"><span class="glyphicon {{ p.icon }}"></span> {{ p.title }}</a></li>
+            <a href="{{ p.url }}"><span class="glyphicon {{ p.icon }}"></span> {{ p.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
