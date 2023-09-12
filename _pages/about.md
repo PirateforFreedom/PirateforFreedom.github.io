@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://pirateforfreedom.github.io'>Affiliations</a>Minhang Shanghai.+8613153929602.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>+8613153929602</p>
-    <p>Minhang</p>
-    <p>Shanghai</p>
+    <p>Phone:+8613153929602</p>
+    <p>District:Minhang</p>
+    <p>city:Shanghai</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
