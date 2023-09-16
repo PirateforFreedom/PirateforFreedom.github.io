@@ -22,6 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my personal webpages! 
 
-I'm Elliot Jiang and live in shanghai.I've have been here for 7 years.During that time ,i finished my studies and now i am working here.Shanghai is great city.
+   I'm Elliot Jiang and live in shanghai.I've have been here for 7 years.During that time ,i finished my studies and now i am working here.Shanghai is great city.
+
 My occupation is software engineer, and i like it .And my job also related to AI.
 My interest area include AI,LLM,AGENT etc.
