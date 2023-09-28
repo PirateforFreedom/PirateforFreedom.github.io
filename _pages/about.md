@@ -10,7 +10,7 @@ profile:
   address: >
     <p>Phone:+8613153929602</p>
     <p>District:Minhang</p>
-    <p>city:Shanghai</p>
+    <p>City:Shanghai</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
