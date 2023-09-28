@@ -1,13 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
   - PirateforFreedom
 
 github_repos:
-  - alshedivat/al-folio
   - PirateforFreedom/Starfish
-  - jekyll/jekyll
   - PirateforFreedom/Seahorse
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
