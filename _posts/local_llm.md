@@ -1,8 +1,15 @@
+
 ---
-title: MemGPT + open models
-excerpt: Set up MemGPT to run with open LLMs
-category: 6580da9a40bb410016b8b0c3
+layout: post
+title:  MemGPT + open models
+date: 2024-05-04 17:32:00-0400
+description:Set up MemGPT to run with open LLMs! ✨ 😄
+tags: Agent
+categories: Original
+giscus_comments: true
+related_posts: false
 ---
+
 
 > 📘 Need help?
 >
